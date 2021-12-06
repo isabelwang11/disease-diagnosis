@@ -1,9 +1,9 @@
 Upper Respiratory Infection (common cold)
 sneezing, nasal congestion, runny nose, throat pain / sore throat, cough, fever, watery eyes, muscle pain, loss of smell, post-nasal drip, redness, itchiness, chills, fatigue, malaise, body aches
 COVID-19
-
+fever, chills, cough, shortness of breath, fatigue, muscle pain, body aches, headache, loss of taste, loss of smell, throat pain / sore throat, nasal congestion, runny nose, nausea, vomiting, diarrhea, confusion, pale or discolored skin/lips/nail beds
 Influenza (flu)
-
+fever, chills, cough, throat pain / sore throat, runny nose, nasal congestion, muscle pain, body aches, headache, fatigue, vomiting, phlegm, dehydration, flushing, loss of appetite, body aches, sweating, sneezing, chest pressure, head congestion, nausea, shortness of breath, swollen lymph nodes
 Acute Bronchitis (chest cold)
 
 Strep Throat

@@ -9,7 +9,7 @@ def input_to_dict(filename):
             if line_num % 2 == 0:
                 disease_name = line
             else:
-                symptoms = line.split(", ")
+                symptoms = set(line.split(", "))
                 dict.update({disease_name:symptoms})
     return dict
 
@@ -29,8 +29,16 @@ def ask_for_symptoms(filename):
                     answer = input("Invalid input. Please answer 'y' or 'n' to the above question.")
     return symptoms
 
-def match_to_diseases(symptoms):
+def match_to_diseases(symptoms_experienced, dd):
     diseases = []
+    for dis in dd:
+        count = 0
+        disease_symptoms  = dd[dis] #set
+        for symp in symptoms_experienced:
+            if symp in disease_symptoms:
+                count += 1
+        if count > 3:
+            diseases.append(dis)
     return diseases
 
 disease_dict = input_to_dict("input.txt")

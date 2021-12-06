@@ -16,7 +16,6 @@ laryngitis
 sore tonsils
 headache
 ear inflammation
-headache
 phlegm
 swollen lymph nodes
 chills
@@ -28,7 +27,7 @@ nausea
 vomiting
 diarrhea
 chest pain / pressure
-pale or discolored skin, lips, or nail beds
+pale or discolored skin/lips/nail beds
 dehydration
 loss of appetite
 head congestion
